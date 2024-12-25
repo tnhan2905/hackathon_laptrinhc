@@ -58,7 +58,7 @@ int main() {
                 break;
             case 5:
                 if (n < 100) {
-                    printf("Nhap gia tri can them vào cuoi mang: ");
+                    printf("Nhap gia tri can them vÃ o cuoi mang: ");
                     scanf("%d", &value);
                     arr[n++] = value;
                 } else {
